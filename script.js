@@ -1,5 +1,6 @@
 const turnOn = document.getElementById('turnOn');
 const turnOff = document.getElementById('turnOff');
+const breakIt = document.getElementById('breakIt');
 const lamp = document.getElementById('lamp')
 
 
@@ -18,8 +19,10 @@ function lampBroken(){
 
 turnOn.addEventListener('click', lampOn)
 turnOff.addEventListener('click', lampOff)
+breakIt.addEventListener('click', lampBroken)
 lamp.addEventListener('mouseover', lampOn)
 lamp.addEventListener('mouseleave',lampOff)
 lamp.addEventListener('dblclick', lampBroken)
+  
 
 
