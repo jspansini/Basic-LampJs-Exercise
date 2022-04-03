@@ -2,12 +2,15 @@
 
 <p> Aprendendo a usar funções de click/over do mouse </p>
 
-🛠 Linguagens e Ferramentas:
-HTML
-CSS
-JAVASCRIPT
+<h2> 🛠 Linguagens e Ferramentas:</h2>
+- HTML<br>
+- CSS <br>
+- JAVASCRIPT<br>
 
-📝Conhecimentos adquiridos:
-funções em js
+<h3> 🎯 Conhecimentos adquiridos:</h3>
+- funções em javascript
 
-🚀 Link funcional: https://lampada-on-off.vercel.app/
+🚀 Link funcional: 
+
+
+<h4>Link funcional: https://lampada-on-off.vercel.app/ </h4>
